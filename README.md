@@ -1,4 +1,4 @@
-#Oyo Case Study
+# Oyo Case Study
 
 #### About the Project
 This project analyzes Oyo’s hotel sales and city datasets to uncover insights into booking patterns, customer behavior, and revenue optimization. By examining booking trends, customer segments, and city-specific performance, the study aims to enhance business strategies, improve occupancy rates, and optimize pricing models.
