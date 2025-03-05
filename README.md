@@ -7,6 +7,7 @@ This project analyzes Oyo’s hotel sales and city datasets to uncover insights 
 The dataset consists of two primary files:
 
 1. Sales Dataset (2,889 Records)
+
 Contains transactional data related to hotel bookings, including customer activity and financial details.
 
 Key Fields:
@@ -21,6 +22,7 @@ Discount – Discount applied to the booking.
 Date of Booking – Date when the reservation was made.
 
 2. City Dataset (357 Records)
+
 Contains city-wise hotel details, helping analyze regional demand and pricing trends.
 
 Key Fields:
