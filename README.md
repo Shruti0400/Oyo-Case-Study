@@ -19,6 +19,7 @@ Hotel ID – Identifier for the booked hotel.
 Amount – Total amount paid for the booking.
 Discount – Discount applied to the booking.
 Date of Booking – Date when the reservation was made.
+
 2. City Dataset (357 Records)
 Contains city-wise hotel details, helping analyze regional demand and pricing trends.
 
