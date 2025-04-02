@@ -31,9 +31,13 @@ City – Location of the hotel.
 
 #### Key Objectives & Business Strategies
 Booking Trend Analysis – Identify peak seasons, customer preferences, and demand fluctuations to optimize pricing strategies.
+
 Customer Segmentation – Classify customers based on spending habits, booking frequency, and cancellation rates for personalized marketing.
+
 Revenue & Discount Insights – Evaluate revenue contributions per city and assess discount strategies to maximize profitability.
+
 Operational Planning – Forecast occupancy trends and recommend resource allocation in high-demand locations.
+
 Cancellation Pattern Analysis – Detect customer segments with high cancellation rates and refine policies to reduce revenue loss.
 
 #### Key Findings & Business Impact
